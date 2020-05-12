@@ -1,0 +1,326 @@
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: S
+
+--- Lista studentów ---
+Lista studentów pusta.
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: A
+
+--- Dodaj nowego studenta ---
+Podaj imię i nazwisko
+Wprowadź (2) dane: Adam
+Błąd! Spróbuj ponownie
+Wprowadź (2) dane: Adam Kowalski
+Pomyślnie dodano studenta Adam Kowalski
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: S
+
+--- Lista studentów ---
+[1] Adam Kowalski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: A
+
+--- Dodaj nowego studenta ---
+Podaj imię i nazwisko
+Wprowadź (2) dane: Kuba Wojciechowski
+Pomyślnie dodano studenta Kuba Wojciechowski
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: A
+
+--- Dodaj nowego studenta ---
+Podaj imię i nazwisko
+Wprowadź (2) dane: Tomek Lewandowski
+Pomyślnie dodano studenta Tomek Lewandowski
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: S
+
+--- Lista studentów ---
+[1] Adam Kowalski
+[2] Kuba Wojciechowski
+[3] Tomek Lewandowski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: M
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: R
+
+--- Raport ocen ---
+[1] Adam Kowalski: Brak ocen
+[2] Kuba Wojciechowski: Brak ocen
+[3] Tomek Lewandowski: Brak ocen
+[M] Menu [q] Wyjście
+Wybierz: M
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: S
+
+--- Lista studentów ---
+[1] Adam Kowalski
+[2] Kuba Wojciechowski
+[3] Tomek Lewandowski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: 1
+Wyświetlam dane studenta 1
+
+--- Lista ocen studenta ---
+Brak ocen
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 1
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 4 1
+Dodano ocenę 4 o wadze 1 studentowi 1
+
+--- Lista ocen studenta ---
+4 (Waga 1)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 1
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 5 1
+Dodano ocenę 5 o wadze 1 studentowi 1
+
+--- Lista ocen studenta ---
+4 (Waga 1)
+5 (Waga 1)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 1
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 3 3
+Dodano ocenę 3 o wadze 3 studentowi 1
+
+--- Lista ocen studenta ---
+4 (Waga 1)
+5 (Waga 1)
+3 (Waga 3)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: M
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: R
+
+--- Raport ocen ---
+[1] Adam Kowalski: 3.6
+[2] Kuba Wojciechowski: Brak ocen
+[3] Tomek Lewandowski: Brak ocen
+[M] Menu [q] Wyjście
+Wybierz: M
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: S
+
+--- Lista studentów ---
+[1] Adam Kowalski
+[2] Kuba Wojciechowski
+[3] Tomek Lewandowski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: 2
+Wyświetlam dane studenta 2
+
+--- Lista ocen studenta ---
+Brak ocen
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 2
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 4 1
+Dodano ocenę 4 o wadze 1 studentowi 2
+
+--- Lista ocen studenta ---
+4 (Waga 1)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 2
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 3 1
+Dodano ocenę 3 o wadze 1 studentowi 2
+
+--- Lista ocen studenta ---
+4 (Waga 1)
+3 (Waga 1)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: S
+
+--- Lista studentów ---
+[1] Adam Kowalski
+[2] Kuba Wojciechowski
+[3] Tomek Lewandowski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: 3
+Wyświetlam dane studenta 3
+
+--- Lista ocen studenta ---
+Brak ocen
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 3
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 4 2
+Dodano ocenę 4 o wadze 2 studentowi 3
+
+--- Lista ocen studenta ---
+4 (Waga 2)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 3
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 5 3
+Dodano ocenę 5 o wadze 3 studentowi 3
+
+--- Lista ocen studenta ---
+4 (Waga 2)
+5 (Waga 3)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: M
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: R
+
+--- Raport ocen ---
+[1] Adam Kowalski: 3.6
+[2] Kuba Wojciechowski: 3.5
+[3] Tomek Lewandowski: 4.6
+[M] Menu [q] Wyjście
+Wybierz: M
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: S
+
+--- Lista studentów ---
+[1] Adam Kowalski
+[2] Kuba Wojciechowski
+[3] Tomek Lewandowski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: 2
+Wyświetlam dane studenta 2
+
+--- Lista ocen studenta ---
+4 (Waga 1)
+3 (Waga 1)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: R
+Usunięto studenta o ID 2
+
+--- Lista studentów ---
+[1] Adam Kowalski
+[3] Tomek Lewandowski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: 3
+Wyświetlam dane studenta 3
+
+--- Lista ocen studenta ---
+4 (Waga 2)
+5 (Waga 3)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: R
+Usunięto studenta o ID 3
+
+--- Lista studentów ---
+[1] Adam Kowalski
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: A
+
+--- Dodaj nowego studenta ---
+Podaj imię i nazwisko
+Wprowadź (2) dane: Mateusz Krawczyk
+Pomyślnie dodano studenta Mateusz Krawczyk
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: S
+
+--- Lista studentów ---
+[1] Adam Kowalski
+[4] Mateusz Krawczyk
+Aby sprawdzić oceny ucznia wprowadź jego numer identyfikacyjny
+[A] Dodaj studenta [M] Menu [q] Wyjście
+Wprowadź (1) dane: 4
+Wyświetlam dane studenta 4
+
+--- Lista ocen studenta ---
+Brak ocen
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: G
+Wybrano studenta o ID: 4
+
+--- Dodaj ocenę ---
+Podaj ocenę i jej wagę oddzielone spacją
+Wprowadź (2) dane: 3 1
+Dodano ocenę 3 o wadze 1 studentowi 4
+
+--- Lista ocen studenta ---
+3 (Waga 1)
+[G] Dodaj ocenę [R] Usuń studenta [M] Menu [S] Lista studentów [q] Wyjście
+Wprowadź (1) dane: M
+
+--- Menu główne ---
+[S] - Lista studentów
+[R] - Raport ocen
+[A] - Dodaj nowego studenta
+Wybierz: R
+
+--- Raport ocen ---
+[1] Adam Kowalski: 3.6
+[4] Mateusz Krawczyk: 3.0
+[M] Menu [q] Wyjście
+Wybierz: q
+Wyjście z programu
